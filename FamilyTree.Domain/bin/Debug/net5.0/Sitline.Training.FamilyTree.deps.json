@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sitline.Training.FamilyTree/1.0.0": {
+        "runtime": {
+          "Sitline.Training.FamilyTree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sitline.Training.FamilyTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
